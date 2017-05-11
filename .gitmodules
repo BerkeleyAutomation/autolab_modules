@@ -13,4 +13,4 @@
 [submodule "meshpy"]
 	path = meshpy
 	url = https://github.com/BerkeleyAutomation/meshpy.git
-	branch = master
+	branch = dev_jeff
