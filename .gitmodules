@@ -1,12 +1,16 @@
 [submodule "visualization"]
 	path = visualization
 	url = https://github.com/BerkeleyAutomation/visualization.git
+	branch = master
 [submodule "core"]
 	path = core
 	url = https://github.com/BerkeleyAutomation/core.git
+	branch = master
 [submodule "perception"]
 	path = perception
 	url = https://github.com/BerkeleyAutomation/perception.git
+	branch = master
 [submodule "meshpy"]
 	path = meshpy
 	url = https://github.com/BerkeleyAutomation/meshpy.git
+	branch = master
