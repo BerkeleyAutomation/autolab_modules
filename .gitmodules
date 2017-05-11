@@ -1,0 +1,12 @@
+[submodule "autolab/core"]
+	path = autolab/core
+	url = https://github.com/BerkeleyAutomation/core.git
+[submodule "autolab/perception"]
+	path = autolab/perception
+	url = https://github.com/BerkeleyAutomation/perception.git
+[submodule "autolab/meshpy"]
+	path = autolab/meshpy
+	url = https://github.com/BerkeleyAutomation/meshpy.git
+[submodule "autolab/visualization"]
+	path = autolab/visualization
+	url = https://github.com/BerkeleyAutomation/visualization.git
